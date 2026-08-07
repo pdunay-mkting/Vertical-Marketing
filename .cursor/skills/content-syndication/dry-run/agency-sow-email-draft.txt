@@ -1,0 +1,19 @@
+To: [marketer fills agency contact]
+Subject: Request for Content Syndication, SOW
+
+Enclosed, please find a list of accounts by country and domain URL, which by the way we got from the sales assistant. And the collateral, best performing collateral pieces we would like to use by offer ID and URL. Please use our standard MSA, Master Services Agreement, to develop a statement of work so that we may get a purchase order. Please follow the standard pricing guidelines set forth in the MSA.
+
+Budget: $XX
+
+Product: OpenShift (core)
+Campaign type: Content Syndication
+
+Collateral
+- Offer ID: 7016e000001cK28AAE
+- PDF: https://www.redhat.com/rhdc/managed-files/cl-wiley-hybrd-cloud-strategy-for-dummies-analyst-material-4159587-202605-en.pdf
+
+Target accounts
+- Count: 222 accounts (no open OpenShift pipeline; from PAI SGIDs via Sales Assistant)
+- Attachment: openshift-qualified-accounts.csv (Account ID, Account Name, Country, Domain URL)
+
+Please reply with the SOW under the same subject line so we can route it for purchase order.
